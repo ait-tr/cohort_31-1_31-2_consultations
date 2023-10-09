@@ -1,7 +1,0 @@
-{
-  "code": [
-    "./code/my-app/src/components/Candy/Candy.tsx",
-    "./code/my-app/src/components/CandyShop/CandyShop.tsx",
-    "./code/my-app/src/components/DogEffect/DogEffect.tsx"
-      ]
-}
