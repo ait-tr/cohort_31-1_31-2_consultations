@@ -1,0 +1,11 @@
+.special {
+  /* padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+  padding-left: 40px; */
+  /* 4 сразу верх, право, лево, низ */
+  padding: 10px 20px 30px 40px;
+  border-width: 2px 5px 10px 20px;
+  /* верх, низ --- лево, право */
+  margin: 20px 40px;
+}
