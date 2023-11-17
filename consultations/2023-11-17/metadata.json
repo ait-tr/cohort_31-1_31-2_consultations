@@ -1,0 +1,10 @@
+{
+  "code": [
+    "./code/Modal/helpers.js",
+    "./code/Modal/index.js",
+    "./code/Modal/Modal.jsx",
+    "./code/Modal/styles.css",
+    "./code/App.css",
+    "./code/App.jsx"
+  ]
+}
