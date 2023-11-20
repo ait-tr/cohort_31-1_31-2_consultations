@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.button-control {
+  width: 150px;
+  height: 40px;
+}
