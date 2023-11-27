@@ -1,0 +1,11 @@
+{
+  "code": [
+    "./code/CounterInterval/CounterInterval.jsx",
+    "./code/CounterInterval/index.js",
+    "./code/CounterInterval/styles.css",
+    "./code/Text/index.js",
+    "./code/Text/styles.css",
+    "./code/Text/Text.jsx",
+    "./code/App.jsx"
+  ]
+}
